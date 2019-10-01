@@ -13,7 +13,6 @@ public class apcsatrapezoid {
 
       double area = ((top + bottom)/2) * height;
       System.out.println("The area of a trapezoid is " + area + ".");
-
       in.close();
     }
 }
